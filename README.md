@@ -39,7 +39,7 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
 
 <div class="alert alert-block alert-warning">
 <img style="float: left" src="https://i.postimg.cc/kXz8cFqC/005-Img-Yellow-Notes-Draft-1-20220819.png" width="60">
-<b style = "font-family: Arial; font-size: 16px">Please note:</b><p style = "font-family:Verdana; font-size:14px"><b>As we do not know  the precise number of each user type and the exact new customers and the current customers, we are unable to calculate the revenue and explore which revenue contribution from each user type, sponsorship and also the type of bike. Our reliable data will be the trips and the average time. Furthermore, we exclude competitor analysis of other similar state citibikes or other modes of transpotation. </b><p>
+<b style = "font-family: Arial; font-size: 16px">Please note:</b><p style = "font-family:Verdana; font-size:14px"><b>Due to our lack of precise information regarding the quantities of each user type, new versus existing customers, as well as the specific breakdown of revenue from user types, sponsorships, and bike categories, we are currently unable to perform accurate revenue calculations and a comprehensive analysis of the revenue sources. Our dependable data sources include trip records and average trip durations. It's important to note that we have chosen not to include a competitor analysis, which would involve assessing comparable systems like Citibikes in other states or alternative modes of transportation.</b><p>
 </div>
 
 <div class="alert alert-block alert-warning">
