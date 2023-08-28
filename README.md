@@ -347,6 +347,33 @@ control
 <img style="float:left" src="https://i.imgur.com/wpcEXQC.png" width="50"><div style = "font-family: Arial; font-size: 16px">
     <h1>Execute</h1></div>
 
+<hr>
+<table style="color:black;
+           display:fill;
+           border-colapse: colapse;
+           width: 100%;
+           border: 1px solid black;
+           border-collapse: collapse;
+           border-style: solid;
+           border-radius:5px;
+           background-color:#5642C5;
+           font-size:110%;
+           font-family:Verdana;
+           letter-spacing:0.5px">
+            
+  <h3 style = "text-align:center">Table 2. Machine Learning Model Feature Importance </h3>
+  <tr>
+    <th>Logistic Regression</th>
+    <th>Random Forest</th>    
+    <th>XG Boost</th>
+  </tr>
+  <tr style = "text-align:center">
+      <td><img style= "margin:auto" src="https://i.imgur.com/RzhEuBt.png" width = "600"></td>
+      <td><img style= "margin:auto" src="https://i.imgur.com/3c9lod9.png" width = "600"></td>
+      <td><img style= "margin:auto" src="https://i.imgur.com/QcsCIgg.png" width = "600"></td>
+  </tr>
+  </table>
+
 # Conclussion
 <hr>
 
