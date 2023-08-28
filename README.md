@@ -42,6 +42,34 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
 <b style = "font-family: Arial; font-size: 16px">Please note:</b><p style = "font-family:Verdana; font-size:14px"><b>Due to our lack of precise information regarding the quantities of each user type, new versus existing customers, as well as the specific breakdown of revenue from user types, sponsorships, and bike categories, we are currently unable to perform accurate revenue calculations and a comprehensive analysis of the revenue sources. Our dependable data sources include trip records and average trip durations. It's important to note that we have chosen not to include a competitor analysis, which would involve assessing comparable systems like Citibikes in other states or alternative modes of transportation.</b><p>
 </div>
 
+<hr>
+<table style="color:black;
+           display:fill;
+           border-colapse: colapse;
+           width: 100%;
+           border: 1px solid black;
+           border-collapse: collapse;
+           border-style: solid;
+           border-radius:5px;
+           background-color:#5642C5;
+           font-size:110%;
+           font-family:Verdana;
+           letter-spacing:0.5px">
+            
+  <h3 style = "text-align:center">Table 1.1. NYC Citibike Customer 2014 and Jan to Nov 2015</h3>
+  <tr>
+    <th>Total Trips Subscriber and Casual 2014 vs Jan to Nov 2015</th>
+    <th>Total Trips Subscriber and Casual by Season 2014 vs Jan to Nov 2015</th>
+    <th>Bikes Utilization 2014 vs Jan to Nov 2015</th>    
+  </tr>
+  <tr style = "text-align:center">
+      <td><img style= "margin:auto" src="https://i.imgur.com/DvwdTJV.png" width = "600"></td>
+      <td><img style= "margin:auto" src="https://i.imgur.com/2qDs1I1.png" width = "600"></td>
+      <td><img style= "margin:auto" src="https://i.imgur.com/aeizSqD.png" width = "600"></td>
+  </tr>
+  </table>
+
+
 <div class="alert alert-block alert-warning">
 <img style="float: left" src="https://i.postimg.cc/kXz8cFqC/005-Img-Yellow-Notes-Draft-1-20220819.png" width="60">
 <b style = "font-family: Arial; font-size: 16px">Please note:</b><p style = "font-family:Verdana; font-size:14px">As we analyze the data, we observe that in September 2014, the highest recorded trip count was 8,361, indicating the utilization of 4,363 bikes. Similarly, September 2015 saw 10,546 trips with 5,396 bikes in use. Membership has experienced significant growth, with figures climbing from around 89,296 in October 2014 to surpassing 120,000 members by 2015. The bike count has also increased from 6,000 in 2013 to 7,454 by September 2015. A crucial question arises: "Do we require more bikes?"
@@ -72,7 +100,7 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
            font-size:110%;
            font-family:Verdana;
            letter-spacing:0.5px">
-  <h3 style = "text-align:center">Table 1.1. SIPOC Analysis</h3>
+  <h3 style = "text-align:center">Table 1.2. SIPOC Analysis</h3>
   <tr>
     <th>Supplier (S)
     <th colspan="2">Input (I)</th>    
@@ -115,7 +143,7 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
 <hr>
 <span style ="font-family:Verdana; font-size:16px; text-align:justify">In this project we will only be mapping the stakeholders that were mentioned in articles or sources with high impacts and major role to the automatidata project.</span>
 
-<h3 style = "text-align:center">Table 1.2. Stakeholder Analysis</h3>
+<h3 style = "text-align:center">Table 1.3. Stakeholder Analysis</h3>
 <table style="color:black;
            display:fill;
            border-colapse: colapse;
@@ -217,7 +245,7 @@ control
   </tr>
  </table>
 
-  <h3 style = "text-align:center">Table 1.3. Project Charter</h3>
+  <h3 style = "text-align:center">Table 1.4. Project Charter</h3>
 <table style="color:black;
            display:fill;
            border-colapse: colapse;
@@ -358,7 +386,7 @@ control
            font-family:Verdana;
            letter-spacing:0.5px">
             
-  <h3 style = "text-align:center">Table 1.4. NYC Citibike Customer Top Pareto (80%) </h3>
+  <h3 style = "text-align:center">Table 1.5. NYC Citibike Customer Top Pareto (80%) </h3>
   <tr>
     <th>Neighborhood Departure</th>
     <th>Neighborhood Destination</th>    
