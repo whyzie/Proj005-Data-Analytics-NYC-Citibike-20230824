@@ -360,8 +360,8 @@ control
             
   <h3 style = "text-align:center">Table 1.4. NYC Citibike Customer Top Pareto (80%) </h3>
   <tr>
-    <th>Neighborhood Start</th>
-    <th>Neighborhood End</th>    
+    <th>Neighborhood Departure</th>
+    <th>Neighborhood Destination</th>    
   </tr>
   <tr style = "text-align:center">
       <td><img style= "margin:auto" src="https://i.imgur.com/eSF4Nsc.jpg" width = "600"></td>
