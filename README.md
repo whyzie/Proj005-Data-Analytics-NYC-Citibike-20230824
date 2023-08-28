@@ -72,7 +72,7 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
            font-size:110%;
            font-family:Verdana;
            letter-spacing:0.5px">
-  <h3 style = "text-align:center">Table 1.2. SIPOC Analysis</h3>
+  <h3 style = "text-align:center">Table 1.1. SIPOC Analysis</h3>
   <tr>
     <th>Supplier (S)
     <th colspan="2">Input (I)</th>    
@@ -115,7 +115,7 @@ In terms of maintenance, the repairs team implemented weekend shifts and conduct
 <hr>
 <span style ="font-family:Verdana; font-size:16px; text-align:justify">In this project we will only be mapping the stakeholders that were mentioned in articles or sources with high impacts and major role to the automatidata project.</span>
 
-<h3 style = "text-align:center">Table 1.3. Stakeholder Analysis</h3>
+<h3 style = "text-align:center">Table 1.2. Stakeholder Analysis</h3>
 <table style="color:black;
            display:fill;
            border-colapse: colapse;
@@ -217,7 +217,7 @@ control
   </tr>
  </table>
 
-  <h3 style = "text-align:center">Table 1.4. Project Charter</h3>
+  <h3 style = "text-align:center">Table 1.3. Project Charter</h3>
 <table style="color:black;
            display:fill;
            border-colapse: colapse;
@@ -343,6 +343,33 @@ control
   </td>
   </tr>
   </table>
+
+<hr>
+<table style="color:black;
+           display:fill;
+           border-colapse: colapse;
+           width: 100%;
+           border: 1px solid black;
+           border-collapse: collapse;
+           border-style: solid;
+           border-radius:5px;
+           background-color:#5642C5;
+           font-size:110%;
+           font-family:Verdana;
+           letter-spacing:0.5px">
+            
+  <h3 style = "text-align:center">Table 1.4. NYC Citibike Customer Top Pareto (80%) </h3>
+  <tr>
+    <th>Neighborhood Start</th>
+    <th>Neighborhood End</th>    
+  </tr>
+  <tr style = "text-align:center">
+      <td><img style= "margin:auto" src="https://i.imgur.com/eSF4Nsc.jpg" width = "600"></td>
+      <td><img style= "margin:auto" src="https://i.imgur.com/r0mnPCI.jpg" width = "600"></td>
+  </tr>
+  </table>
+
+
 
 <img style="float:left" src="https://i.imgur.com/wpcEXQC.png" width="50"><div style = "font-family: Arial; font-size: 16px">
     <h1>Execute</h1></div>
