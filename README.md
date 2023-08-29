@@ -12,7 +12,7 @@
 <h3 style="text-align:justify">In this project, we will walk through the Data Analytics process, starting from data acquisition and analysis, to gaining business insights and creating models using BigQuery with SQL and Python. The case study will showcase data analyst, business intelligence, and data science analyses to acquire valuable business insights.
 <br><br>
 The New York Citibike Cyclistic's Customer Growth Team is developing a business plan for the next year (2016). Therefore, the case study will only utilize data from 2014 and 2015. The team's primary objective is to understand how their customers are using their bikes, with a focus on identifying customer demand at different station locations. The key question is: How can we apply customer usage insights to inform new station growth?<br><br>
-    After <a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p01-nyc-citibike-20230731" {:target="_blank"}>part 1 (P01)</a> we have cleaned the data and in  <a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p02-nyc-citibike-20230802" {:target="_blank"}> part 2 (P02)</a>, executed data mining and analysis. Now in<a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p03-ml-models-nyc-citibike-20230824" {:target="_blank"}> part 3 (P03)</a>, we will continue creating predictive models on the demand side. The goal of data mining is to gain a deeper understanding of the data and to use this knowledge to make informed decisions, create predictive models, or find valuable patterns and trends for valuable insights. <b>Develop machine learning models that predicts citibike total trip or trip durations based on location and time of day.</b>
+    After <a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p01-nyc-citibike-20230731" {:target="_blank" rel="noopener"}>part 1 (P01)</a> we have cleaned the data and in  <a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p02-nyc-citibike-20230802" {:target="_blank" rel="noopener"}> part 2 (P02)</a>, executed data mining and analysis. Now in<a href="https://www.kaggle.com/code/wahyuardhitama/proj005-p03-ml-models-nyc-citibike-20230824" {:target="_blank" rel="noopener"}> part 3 (P03)</a>, we will continue creating predictive models on the demand side. The goal of data mining is to gain a deeper understanding of the data and to use this knowledge to make informed decisions, create predictive models, or find valuable patterns and trends for valuable insights. <b>Develop machine learning models that predicts citibike total trip or trip durations based on location and time of day.</b>
 </h3> 
 <p style = "font-family: Arial; font-size: 18px">Note: This project's dataset was created for pedagogical purposes and may not represent real-world data. The project consists of multiple notebook parts, focusing on combining data from various tables and conducting data analysis and prediction to acquire valuable insights.</p>    
 </div> 
@@ -285,8 +285,8 @@ control
   </tr>
 
  <tr style ="background:LightSkyBlue;text-align:center">
-      <td colspan ="2"><a href="https://public.tableau.com/app/profile/wahyu8220/viz/NYC_Citibike_20230803_v_1/TripsDemandDashboard1?publish=yes" {:target="_blank"}>Goal Statement</a></td>
-      <td colspan ="2"><a href="https://public.tableau.com/app/profile/wahyu8220/viz/NYC_Citibike_20230803_v_1/TripsDemandDashboard1?publish=yes"{:target="_blank"}>Deliverables (Key Results)</a></td>
+      <td colspan ="2"><a href="https://public.tableau.com/app/profile/wahyu8220/viz/NYC_Citibike_20230803_v_1/TripsDemandDashboard1?publish=yes" {:target="_blank" rel="noopener"}>Goal Statement</a></td>
+      <td colspan ="2"><a href="https://public.tableau.com/app/profile/wahyu8220/viz/NYC_Citibike_20230803_v_1/TripsDemandDashboard1?publish=yes"{:target="_blank" rel="noopener"}>Deliverables (Key Results)</a></td>
  </tr>
  <tr style="text-align:left">
       <td colspan ="2">Primary metric:
