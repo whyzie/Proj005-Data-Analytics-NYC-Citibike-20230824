@@ -291,7 +291,7 @@ control
  <tr style="text-align:left">
       <td colspan ="2">Primary metric:
      <ul>
-         <li>Total trip
+         <li>Total trip to increase Revenue
      </ul>
      Secondary Metric:
      <ul>
@@ -337,7 +337,6 @@ control
      </ul>
      Out-of-Scope:
      <ul>
-         <li>Revenue
          <li>Lean measure such as ,fastest processes, routes etc.
          <li>Bike types
          <li>Location characterization (commercial, residential, etc)
